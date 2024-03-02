@@ -1,4 +1,4 @@
-# Project Name
+# Edulab Contact Upload CSV Generator
 
 ## Setup
 
